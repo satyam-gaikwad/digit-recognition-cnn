@@ -1,0 +1,7 @@
+python
+streamlit
+streamlit-drawable-canvas
+numpy
+PIL
+cv2
+tensorflow
